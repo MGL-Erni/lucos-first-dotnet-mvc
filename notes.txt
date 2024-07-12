@@ -1,0 +1,13 @@
+Use `dotnet run` if ctrl f5 results in localhost refused to connect.
+
+An HTTP endpoint:
+    Is a targetable URL in the web application, 
+        such as https://localhost:5001/HelloWorld.
+    Combines, e.g.: 
+        1. The protocol used: HTTPS.
+        2. The network location of the web server, 
+            including the TCP port: localhost:5001.
+        3. The target URI: HelloWorld.
+
+Logging in to VSCode:
+    https://itsfoss.com/vs-code-github/
